@@ -2,6 +2,8 @@
 
 ## Mücver
 
+![Mücver](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbGsRAIxkosaSZzSe3-DdJ49BbQQIGXHFyN6dtJbx5kD9n2n6rGYHa9dJ-Y2zwSXxc4EFErzGaFzH-gUWH7aEXsgGKbW8pQBQ5SWS4A&s=10)
+
 ### Ingredients
 
  - 2–2.5 kg zucchini
@@ -26,3 +28,5 @@
 7. Drop spoonfuls of the mixture into the pan and gently flatten them.
 8. Fry both sides until golden brown.
 10. Transfer to paper towels to remove excess oil
+
+[Online Recipe](https://vidarbergum.com/recipe/mucver-turkish-courgette-zucchini-fritters/)

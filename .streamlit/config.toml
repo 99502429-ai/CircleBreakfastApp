@@ -1,0 +1,11 @@
+[[theme.fontFaces]]
+
+# family = "telegraf"
+# url = "./PPTelegraf-Regular.otf"
+# weight = "400"
+# style = "normal"
+
+[theme]
+backgroundColor = "#A21530"
+primaryColor = "#E0A1A5"
+fontFaces = "telegraf"
