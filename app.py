@@ -35,7 +35,7 @@ pg = st.navigation([
     st.Page("recipes/mexico/mexico.py", title="Mexico"),
     st.Page("recipes/netherlands/netherlands.py", title="Netherlands"),
     st.Page("recipes/turkey/turkey.py", title="Turkey")
-])
+],expanded=True)
 
 pg.run()
 
