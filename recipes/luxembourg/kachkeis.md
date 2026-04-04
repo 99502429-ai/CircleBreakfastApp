@@ -2,7 +2,7 @@
 
 ## Kachkéis-Schmier mat Moschtert
 
-![Kachkéis-Schmier mat Moschtert](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4_iFIsEFcLqQpp624qnJDSYuTPugxYzulpQ&s)
+![Kachkéis-Schmier mat Moschtert](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQveB2c1k-eDaVJvoY67Py4BvPD8QcgaMQQDA&s)
 
 ### Ingredients
 
